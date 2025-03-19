@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour, je suis Gwendal ! 🌻</h1>h1>
+<h1 align="center"> Bonjour, je suis Gwendal ! 🌻</h1>
 
 - 🌱 Je suis étudiant en alternance pour en apprendre davantage sur le développement web et ses langages
 
@@ -44,7 +44,7 @@
 </a>
 <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop"
       width="40" height="40" /> 
 </a>
 <a href="https://reactjs.org/" rel="noreferrer" target="_blank"> <img
