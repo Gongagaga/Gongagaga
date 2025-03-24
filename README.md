@@ -4,6 +4,9 @@
 
 ✍️ Les travaux présents ici sont soit des projets personnel, soit des projets d'école !
 
+<h3>🪴 Mon site</h3>
+<p>⚠️ En travaux</p>
+
 <h3>📫 Mes réseaux</h3>
   <a href="https://www.linkedin.com/in/gwendal-nogues-1369a3217/" target="_blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
