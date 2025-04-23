@@ -58,6 +58,10 @@
       src="https://cdn.worldvectorlogo.com/logos/symfony.svg"
       alt="symfony" width="40" height="40" /> 
 </a>
+<a href="https://laravel.com/" rel="noreferrer" target="_blank"> <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" 
+      alt="laravel" width="40" height="40"/>
+</a>
 <a href="https://jquery.com/" rel="noreferrer" target="_blank"> <img
       src="https://images.icon-icons.com/2699/PNG/512/jquery_vertical_logo_icon_169489.png"
       alt="jquery" width="40" height="40" /> 
