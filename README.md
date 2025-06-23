@@ -4,7 +4,8 @@
 
 ✍️ Les travaux présents ici sont soit des projets personnel, soit des projets d'école !
 
-<a href="https://gongagaga.github.io/"><h3>🪴 Mon site</h3></a>
+<h3>🪴 Mon site</h3>
+<a href="https://gongagaga.github.io/">https://gongagaga.github.io/</a>
 
 <h3>📫 Mes réseaux</h3>
   <a href="https://www.linkedin.com/in/gwendal-nogues-1369a3217/" target="_blank"><img align="center"
